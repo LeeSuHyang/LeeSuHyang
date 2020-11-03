@@ -1,4 +1,4 @@
-# FRONT-END DEVELOPER
+# Hi! 😎
 
 ## 🍊 관심사.
 `#프론트엔드` `#REACT` `#REDUX` `#NODEJS` `#MYSQL` <br />
